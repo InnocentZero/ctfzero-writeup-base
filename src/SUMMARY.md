@@ -28,4 +28,5 @@
 
 # Web Exp
 
--[Challenge 1](./chall_1.md)
+- [Challenge 1](./chall_1.md)
+- [Challenge 2](./chall_2.md)
