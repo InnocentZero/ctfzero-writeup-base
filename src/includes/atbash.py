@@ -5,8 +5,6 @@ from string import ascii_uppercase as uppercase
 
 string = input("Enter the string: ")
 
-uppercase_rev = uppercase[::-1]
-
 decrypt = ""
 for i in string:
     if i in uppercase:
